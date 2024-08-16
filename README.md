@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Cafe Management System](https://github.com/pasindigamage/Cafe-management-System)
 
-- 🌱 I’m currently learning **Java & nodeJS**
+- 🌱 I’m currently learning **Java, Web Design & nodeJS**
 
 - 📫 How to reach me **pasindipamodagamage@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I can properly focus my mind on the current work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
