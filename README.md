@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pasindi Pamoda Gamage</h1>
 <h3 align="center">A Student Studying Software Engineering in IJSE Sri Lanka Since 2023</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pasindipamodagamage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=dracula" alt="GitHub Trophies" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on [Cafe Management System](https://github.com/pasindigamage/Cafe-management-System)
 
 - 🌱 I’m currently learning **Java, Web Design & nodeJS**
