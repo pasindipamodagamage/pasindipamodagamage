@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindi Pamoda Gamage</h1>
-<h3 align="center">A Student Studying Software Engineering in IJSE Sri Lanka Since 2023</h3>
+<h3 align="center">A Undergraduate Software Engineering Student in Institute of Java and Software Engineering in Sri Lanka Since 2023 to Present</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pasindipamodagamage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
