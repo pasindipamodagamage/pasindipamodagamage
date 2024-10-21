@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Gourmet Guidebook-Food Recipy Website](https://github.com/pasindipamodagamage/Food-Recipy-Website)
 
-- 🌱 I’m currently learning **Java, Web Design & nodeJS**
+- 🌱 I’m currently learning **Java & Web Application Development**
 
 - 📫 How to reach me **pasindipamodagamage@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pasipamodag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasipamodag" height="30" width="40" /></a>
+<a href="https://twitter.com/pasipamodag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasipamodag" height="30" width="40" margin-right="20"/></a> 
 <a href="https://linkedin.com/in/pasindi-pamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindi-pamoda" height="30" width="40" /></a>
 <a href="https://fb.com/pasindi pamoda gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasi gamage" height="30" width="40" /></a>
 <a href="https://instagram.com/pasindingamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindingamage" height="30" width="40" /></a>
