@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hey 👋, I'm Pasindi </h1>
-<h2 align="center">Undergraduate Student 👩🏽‍💻 at Institute of Software Engineering (IJSE) 
+<h2 align="center">Undergraduate Student 👩🏽‍💻 at Institute of Software Engineering
   <br>in Sri Lanka</h2>
 <br>
 <br>
@@ -13,13 +13,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=dracula" alt="GitHub Trophies" />
   </a>
 <br><br>
-- ⚡ **I think I can properly focus my mind on the current work 🎯**<br><br>
+- ⚡ I think I can properly focus my mind on the current work🎯
+  <br><br>
   <hr>
-- 🔭 I’m currently working on [Gourmet Guidebook-Food Recipy Website](https://github.com/pasindipamodagamage/Food-Recipy-Website)
+<!-- - 🔭 I’m currently working on [Gourmet Guidebook-Food Recipy Website](https://github.com/pasindipamodagamage/Food-Recipy-Website) -->
 
-- 🌱 I’m currently learning **STANDSLONE AND WEB APPLICATION DEVELOPMENt**
+- 🌱 I’m currently learning **STANDSLONE AND WEB APPLICATION DEVELOPMENT**
 
-- 📫 How to reach me **pasindipamodagamage@gmail.com**
+<!-- - 📫 How to reach me **pasindipamodagamage@gmail.com** -->
+  
 
 <hr>
 </p>
