@@ -12,7 +12,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=dracula" alt="GitHub Trophies" />
   </a>
-<br><br><br><br>
+<br><br>
+- ⚡ **I think I can properly focus my mind on the current work 🎯**<br><br>
   <hr>
 - 🔭 I’m currently working on [Gourmet Guidebook-Food Recipy Website](https://github.com/pasindipamodagamage/Food-Recipy-Website)
 
@@ -20,7 +21,6 @@
 
 - 📫 How to reach me **pasindipamodagamage@gmail.com**
 
-- ⚡ Fun fact **I think I can properly focus my mind on the current work 🎯**
 <hr>
 </p>
 
