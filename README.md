@@ -1,25 +1,31 @@
-<h1 align="center">Hi 👋, I'm Pasindi Pamoda Gamage</h1>
-<h3 align="center">Undergraduate Software Engineering Student at Institute of Software Engineering (IJSE) in Sri Lanka</h3>
-
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=pasindipamodagamage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<p align="left">
+<hr>
+<h1 align="center">Hey 👋, I'm Pasindi </h1>
+<h2 align="center">Undergraduate Student 👩🏽‍💻 at Institute of Software Engineering (IJSE) 
+  <br>in Sri Lanka</h2>
+<br>
+<br>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=dracula" alt="GitHub Trophies" />
   </a>
-</p>
-
+<br><br><br><br>
+  <hr>
 - 🔭 I’m currently working on [Gourmet Guidebook-Food Recipy Website](https://github.com/pasindipamodagamage/Food-Recipy-Website)
 
-- 🌱 I’m currently learning **Java & Web Application Development**
+- 🌱 I’m currently learning **STANDSLONE AND WEB APPLICATION DEVELOPMENt**
 
 - 📫 How to reach me **pasindipamodagamage@gmail.com**
 
-- ⚡ Fun fact **I think I can properly focus my mind on the current work**
+- ⚡ Fun fact **I think I can properly focus my mind on the current work 🎯**
+<hr>
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p >
 <a href="https://twitter.com/pasipamodag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasipamodag" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/pasindi-pamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindi-pamoda" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/pasindi pamoda gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasi gamage" height="30" width="40" /></a>&nbsp;&nbsp;
