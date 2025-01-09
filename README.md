@@ -1,10 +1,10 @@
+<!-- <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p> -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=pasindipamodagamage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <hr>
 <h1 align="center">Hey 👋, I'm Pasindi </h1>
-<h2 align="center">Undergraduate Student 👩🏽‍💻 at Institute of Software Engineering
-  <br>in Sri Lanka</h2>
+<h2 align="center">Software Engineering Undergraduate at IJSE in Sri Lanka</h2>
 <br>
 <br>
 
@@ -26,8 +26,9 @@
 <hr>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p >
+<br><br><br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/pasipamodag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasipamodag" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/pasindi-pamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindi-pamoda" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/pasindi pamoda gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasi gamage" height="30" width="40" /></a>&nbsp;&nbsp;
