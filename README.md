@@ -8,14 +8,21 @@
 <h3 align="left">✨ Do You Want to Know About MySelf ? </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=2a2a2a&center=true&vCenter=true&width=700&height=100&lines=I'M%20%20%20%20PASINDI%20%20%20%20PAMODA%20%20%20%20GAMAGE%20%20%20%20💻;🎓%20%20%20%20SOFTWARE%20%20%20%20ENGINEERING%20%20%20%20UNDERGRADUATE;FULLSTACK%20%20%20%20DEVELOPER%20%20%20%20👨‍💻;PASSIONATE%20%20%20%20ABOUT%20%20%20%20CODING%20%20%20%20🔥;LEARNING%20%20%20%20NEW%20%20%20%20TECHNOLOGIES%20%20%20%20📖%20%20🚀;BUILDING%20%20%20%20INNOVATIVE%20%20%20%20SOLUTIONS%20%20%20%20💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=2a2a2a&center=true&vCenter=true&width=700&height=100&lines=I'%20%20M%20%20%20%20PASINDI%20%20%20%20PAMODA%20%20%20%20GAMAGE%20%20%20%20😺;🎓%20%20%20%20SOFTWARE%20%20%20%20ENGINEERING%20%20%20%20UNDERGRADUATE;FULLSTACK%20%20%20%20DEVELOPER%20%20%20%20👨‍💻;PASSIONATE%20%20%20%20ABOUT%20%20%20%20CODING%20%20%20%20🔥;LEARNING%20%20%20%20NEW%20%20%20%20TECHNOLOGIES%20%20%20%20📖%20%20🚀;BUILDING%20%20%20%20INNOVATIVE%20%20%20%20SOLUTIONS%20%20%20%20💡" alt="Typing SVG" />
 </div>
 <br>
 <!-- Achievements -->
 <div align="center">
   
-  🏆 **Achievements** 🏆
+## 🏆 Achievements 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=algolia&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=8" width="100%" alt="Trophy" />
   </div>
 </div>
+
+## 💫 About me
+- 🎓 A Software Engineering undergraduate from **Java Software Engineering Institute**, Sri Lanka
+- 💻 Focused on **Full Stack Development** and passionate about software architecture
+- 🌱 Currently focusing on **Enterprise Web Application Development**
+- 🎯 Working on various personal projects to improve my skills
+- ⚡ I believe in continuously learning something new every day!
