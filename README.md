@@ -1,57 +1,21 @@
-<!-- <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p> -->
-<p align="right">
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey!%20%20%20%20Welcome%20to%20My%20GitHub%20Profile%20%20%20%20%20👋&fontSize=40&fontAlignY=35&animation=twinkling" width="100%"/>
   <img src="https://komarev.com/ghpvc/?username=pasindipamodagamage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<hr>
-<h1 align="center">Hey 👋, I'm Pasindi </h1>
-<h2 align="center">Software Engineering Undergraduate at IJSE in Sri Lanka</h2>
+</div>
+
+<!-- Main Phrase -->
+<h3 align="left">✨ Do You Want to Know About MySelf ? </h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=2a2a2a&center=true&vCenter=true&width=700&height=100&lines=I'M%20%20%20%20PASINDI%20%20%20%20PAMODA%20%20%20%20GAMAGE%20%20%20%20💻;🎓%20%20%20%20SOFTWARE%20%20%20%20ENGINEERING%20%20%20%20UNDERGRADUATE;FULLSTACK%20%20%20%20DEVELOPER%20%20%20%20👨‍💻;PASSIONATE%20%20%20%20ABOUT%20%20%20%20CODING%20%20%20%20🔥;LEARNING%20%20%20%20NEW%20%20%20%20TECHNOLOGIES%20%20%20%20📖%20%20🚀;BUILDING%20%20%20%20INNOVATIVE%20%20%20%20SOLUTIONS%20%20%20%20💡" alt="Typing SVG" />
+</div>
 <br>
-<br>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=dracula" alt="GitHub Trophies" />
-  </a>
-<br><br>
-- ⚡ I think I can properly focus my mind on the current work🎯
-  <br><br>
-  <hr>
-<!-- - 🔭 I’m currently working on [Gourmet Guidebook-Food Recipy Website](https://github.com/pasindipamodagamage/Food-Recipy-Website) -->
-
-- 🌱 I’m currently learning **STANDSLONE AND WEB APPLICATION DEVELOPMENT**
-
-<!-- - 📫 How to reach me **pasindipamodagamage@gmail.com** -->
+<!-- Achievements -->
+<div align="center">
   
-
-<hr>
-</p>
-
-<br><br><br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/pasipamodag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasipamodag" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/pasindi-pamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindi-pamoda" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/pasindi pamoda gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasi gamage" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pasindingamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindingamage" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/pasindi pamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pasindi pamoda" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.logobean.com/images/canva-logo.png" alt="canva" width="90" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://hibernate.org/" target="_blank" rel="hibernate"> <img src="https://cdn.brandfetch.io/idsUEbIKSd/theme/dark/logo.svg?k=id64Mup7ac&t=1721142461781?t=1721142461781" alt="hibernate" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://www.javascript.com//" target="_blank" rel="javascript"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindipamodagamage&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindipamodagamage&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+  🏆 **Achievements** 🏆
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=algolia&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=8" width="100%" alt="Trophy" />
+  </div>
+</div>
