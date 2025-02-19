@@ -91,9 +91,10 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=pasindipamodagamage&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=1800" alt="Activity Overview" width="440" />
       </td>
-      <td>
+     <!-- <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindipamodagamage&theme=nightowl&hide_border=true&cache_seconds=1800" alt="Contribution Streak" width="440" />
       </td>
+      -->
     </tr>
   </table>
   
