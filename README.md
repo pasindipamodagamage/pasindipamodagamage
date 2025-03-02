@@ -23,7 +23,7 @@
 <br>
 
 ## 💫 About me
-- 🎓 A Software Engineering undergraduate from **Java Software Engineering Institute**, Sri Lanka
+- 🎓 A Software Engineering undergraduate from **Institute of Software Engineering**, Sri Lanka
 - 💻 Focused on **Full Stack Development** and passionate about software architecture
 - 🌱 Currently focusing on **Enterprise Web Application Development**
 - 🎯 Working on various personal projects to improve my skills
