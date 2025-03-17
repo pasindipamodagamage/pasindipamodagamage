@@ -13,12 +13,14 @@
 <br>
 <!-- Achievements -->
 <div align="center">
-  
+
+<!--
 ## 🏆 Achievements 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pasindipamodagamage&theme=algolia&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=8" width="100%" alt="Trophy" />
   </div>
 </div>
+-->
 
 <br>
 
@@ -86,18 +88,19 @@
 
 ## 📈 Coding Metrics & Analytics
 <div align="center">
+  <!--
   <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=pasindipamodagamage&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=1800" alt="Activity Overview" width="440" />
       </td>
-     <!-- <td>
+      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindipamodagamage&theme=nightowl&hide_border=true&cache_seconds=1800" alt="Contribution Streak" width="440" />
       </td>
-      -->
+      
     </tr>
   </table>
-  
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindipamodagamage&theme=nightowl&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Programming Language Proficiency" width="370" />
 </div>
 
